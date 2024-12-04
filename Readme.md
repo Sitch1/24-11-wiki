@@ -29,7 +29,7 @@
 - `Software`: Programm/Anwendungen. Man kann Software nicht anfassen
 - `Hardware`: Physische Komponenten des Computers/Server. Zum Beispiel CPU wäre eine Hardware Komponente
 - `Betriebssystem bzw. OS`: Windows, Android, iOS. Schnittstelle zwischen Hardware und Software
-
+0
 ## Hardware Komponenten
 
 - `CPU`: Central Processing Unit - Prozessor
