@@ -34,3 +34,5 @@
 
 - `CPU`: Central Processing Unit - Prozessor
 - `RAM`: Random Access Memory - Arbeitsspeicher. Kurzzeitspeicher
+- 
+
